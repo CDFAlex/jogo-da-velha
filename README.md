@@ -10,6 +10,8 @@ O jogo da velha é um passatempo clássico que envolve dois jogadores, X e O, qu
 
 ## Como Contribuir
 
+Ajuste de teste
+
 Se você deseja contribuir para este projeto, fique à vontade para realizar issues e pull requests. Aqui estão algumas maneiras pelas quais você pode ajudar:
 
     1. Implementar novos recursos ou melhorias no jogo.
